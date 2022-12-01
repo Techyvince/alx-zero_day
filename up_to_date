@@ -1,6 +1,0 @@
-#Git commands
-git pull
-git checkout -b "name of your new branch"
-git push origin "name of your new branch"
-git branch
-
